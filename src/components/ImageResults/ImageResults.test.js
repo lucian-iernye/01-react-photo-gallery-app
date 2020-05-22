@@ -1,7 +1,7 @@
 import React from "react";
-import ImageResult from "./ImageResult";
+import ImageResults from "./ImageResults";
 
-describe("ImageResult tests", () => {
+describe("ImageResults tests", () => {
   let component;
 
   beforeEach(() => {
